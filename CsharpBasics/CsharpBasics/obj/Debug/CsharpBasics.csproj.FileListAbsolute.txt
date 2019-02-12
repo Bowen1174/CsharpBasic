@@ -1,0 +1,7 @@
+C:\Users\austi\OneDrive\Documents\CsharpBasics\CsharpBasics\obj\Debug\CsharpBasics.csprojAssemblyReference.cache
+C:\Users\austi\OneDrive\Documents\CsharpBasics\CsharpBasics\obj\Debug\CsharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\austi\OneDrive\Documents\CsharpBasics\CsharpBasics\bin\Debug\CsharpBasics.exe.config
+C:\Users\austi\OneDrive\Documents\CsharpBasics\CsharpBasics\bin\Debug\CsharpBasics.exe
+C:\Users\austi\OneDrive\Documents\CsharpBasics\CsharpBasics\bin\Debug\CsharpBasics.pdb
+C:\Users\austi\OneDrive\Documents\CsharpBasics\CsharpBasics\obj\Debug\CsharpBasics.exe
+C:\Users\austi\OneDrive\Documents\CsharpBasics\CsharpBasics\obj\Debug\CsharpBasics.pdb
